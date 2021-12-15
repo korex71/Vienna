@@ -1,1 +1,1 @@
-# Offensive security tests/experiments
+# Offensive security tests/experiments & some usefull codes.
